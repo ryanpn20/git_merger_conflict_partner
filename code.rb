@@ -1,1 +1,1 @@
-ruby
+wyncode ruby
